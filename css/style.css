@@ -1,0 +1,10 @@
+body {
+    background-color:
+    color: #f3f4f6;
+    font-family: sans-serif;
+}
+.sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
